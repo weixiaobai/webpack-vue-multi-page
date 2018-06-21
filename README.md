@@ -2,16 +2,17 @@
 
 > A Vue.js project
 
-## Build Setup
+## 安装依赖
 
-## install dependencies
-npm install
+* npm install
 
-## serve with hot reload at localhost:8080
-npm run dev
+## 本地启动
 
-## build for production with minification
-npm run build
+* npm run dev
+
+## 生成部署文件
+
+* npm run build
 
 ## 目录结构
 
