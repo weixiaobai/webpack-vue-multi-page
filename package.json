@@ -1,5 +1,5 @@
 {
-  "name": "webpacktest",
+  "name": "webpack-vue-multi-page",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,7 +8,7 @@
     "build": "node config/webpack.prod.conf.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "zw",
   "license": "ISC",
   "devDependencies": {
     "babel-core": "^6.26.3",
